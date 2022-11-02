@@ -1,0 +1,13 @@
+﻿  CMLPR_Victor.cpp
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(78,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(315,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(334,13): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(361,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(433,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(443,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(445,42): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(537,62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Victor\source\repos\CMLPR_Victor\CMLPR_Victor\CMLPR_Victor.cpp(591,128): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Finished generating code
+  CMLPR_Victor.vcxproj -> C:\Users\Victor\source\repos\CMLPR_Victor\x64\Release\CMLPR_Victor.exe
